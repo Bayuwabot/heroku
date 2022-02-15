@@ -60,8 +60,6 @@ const defaultMenu = {
 │
 │ Uptime : *%uptime (%muptime)*
 │ Database : %rtotalreg of %totalreg
-│ Github :
-│https://github.com/BayuuOFC/SCBAYU
 │
 │ Group 1 :
 │ ${gc1}
